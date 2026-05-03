@@ -143,6 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="include\MyHashTable.h" />
     <ClInclude Include="include\MyLRUCache.h" />
     <ClInclude Include="include\MySharedPtr.h" />
     <ClInclude Include="include\MyString.h" />
