@@ -24,6 +24,15 @@
     <ClInclude Include="include\MyVector.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="include\MyUniquePtr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MySharedPtr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MyLRUCache.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">
