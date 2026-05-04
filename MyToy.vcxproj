@@ -146,7 +146,9 @@
     <ClInclude Include="include\MyHashTable.h" />
     <ClInclude Include="include\MyLRUCache.h" />
     <ClInclude Include="include\MySharedPtr.h" />
+    <ClInclude Include="include\MySingleton.h" />
     <ClInclude Include="include\MyString.h" />
+    <ClInclude Include="include\MyThreadPool.h" />
     <ClInclude Include="include\MyUniquePtr.h" />
     <ClInclude Include="include\MyVector.h" />
     <ClInclude Include="include\test.h" />

@@ -36,6 +36,12 @@
     <ClInclude Include="include\MyHashTable.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="include\MySingleton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MyThreadPool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">
